@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="TestRunner.Invoke">
+        <methods>
+          <include name="AddEditComment"/>
+          <include name="Create_Sample"/>
+          <include name="Logout"/>
+          <include name="LoginFail"/>
+          <include name="Survey"/>
+          <include name="CheckOut"/>
+          <include name="Edit_Survey"/>
+          <include name="Create_Survey"/>
+          <include name="Login"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- TestRunner.Invoke -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

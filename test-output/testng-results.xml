@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="714409" started-at="2017-08-18T08:39:42Z" finished-at="2017-08-18T08:51:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="714409" started-at="2017-08-18T08:39:42Z" finished-at="2017-08-18T08:51:37Z">
+      <class name="TestRunner.Invoke">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestRunner.Invoke@3159c4b8]" name="setup" is-config="true" duration-ms="7463" started-at="2017-08-18T14:09:42Z" finished-at="2017-08-18T14:09:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:TestRunner.Invoke@3159c4b8]" name="Login" duration-ms="45605" started-at="2017-08-18T14:09:50Z" finished-at="2017-08-18T14:10:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Create_Sample()[pri:1, instance:TestRunner.Invoke@3159c4b8]" name="Create_Sample" duration-ms="77907" started-at="2017-08-18T14:10:35Z" finished-at="2017-08-18T14:11:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create_Sample -->
+        <test-method status="PASS" signature="Create_Survey()[pri:2, instance:TestRunner.Invoke@3159c4b8]" name="Create_Survey" duration-ms="193888" started-at="2017-08-18T14:11:53Z" finished-at="2017-08-18T14:15:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create_Survey -->
+        <test-method status="PASS" signature="CheckOut()[pri:3, instance:TestRunner.Invoke@3159c4b8]" name="CheckOut" duration-ms="39277" started-at="2017-08-18T14:15:07Z" finished-at="2017-08-18T14:15:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckOut -->
+        <test-method status="PASS" signature="AddEditComment()[pri:4, instance:TestRunner.Invoke@3159c4b8]" name="AddEditComment" duration-ms="189959" started-at="2017-08-18T14:15:46Z" finished-at="2017-08-18T14:18:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddEditComment -->
+        <test-method status="PASS" signature="Survey()[pri:5, instance:TestRunner.Invoke@3159c4b8]" name="Survey" duration-ms="92412" started-at="2017-08-18T14:18:56Z" finished-at="2017-08-18T14:20:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Survey -->
+        <test-method status="PASS" signature="Edit_Survey()[pri:6, instance:TestRunner.Invoke@3159c4b8]" name="Edit_Survey" duration-ms="44826" started-at="2017-08-18T14:20:29Z" finished-at="2017-08-18T14:21:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Edit_Survey -->
+        <test-method status="PASS" signature="Logout()[pri:7, instance:TestRunner.Invoke@3159c4b8]" name="Logout" duration-ms="17730" started-at="2017-08-18T14:21:14Z" finished-at="2017-08-18T14:21:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="LoginFail()[pri:8, instance:TestRunner.Invoke@3159c4b8]" name="LoginFail" duration-ms="5282" started-at="2017-08-18T14:21:31Z" finished-at="2017-08-18T14:21:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginFail -->
+      </class> <!-- TestRunner.Invoke -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
